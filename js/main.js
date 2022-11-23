@@ -1,0 +1,1 @@
+console.log("Hola Mundo, retransmitiendo desde el mundo Pokemon");
